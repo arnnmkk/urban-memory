@@ -1,0 +1,14 @@
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.AssemblyInfoInputs.cache
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.AssemblyInfo.cs
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.csproj.CoreCompileInputs.cache
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\bin\Debug\net6.0\Угадай число.exe
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\bin\Debug\net6.0\Угадай число.deps.json
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\bin\Debug\net6.0\Угадай число.runtimeconfig.json
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\bin\Debug\net6.0\Угадай число.dll
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\bin\Debug\net6.0\Угадай число.pdb
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.dll
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\refint\Угадай число.dll
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.pdb
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\Угадай число.genruntimeconfig.cache
+C:\Users\Карен\OneDrive\Документы\Visual Studio 2022\Угадай число\obj\Debug\net6.0\ref\Угадай число.dll
